@@ -1,0 +1,5 @@
+price_segment,listings,median_actual_price,mean_absolute_error,mean_signed_error
+<=2L,878,125000.0,87650.0,78193.0
+2L-5L,1437,320000.0,131581.0,69569.0
+5L-10L,866,650000.0,241371.0,-1886.0
+>10L,267,1500000.0,850535.0,-596301.0

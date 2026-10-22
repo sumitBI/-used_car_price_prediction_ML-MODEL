@@ -1,0 +1,7 @@
+{
+  "model": "TunedRandomForest",
+  "test_rows": 892,
+  "test_mae_inr": 189566.4557434535,
+  "test_rmse_inr": 370314.70220706513,
+  "test_r2": 0.5685171131911568
+}
